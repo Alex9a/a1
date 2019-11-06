@@ -1,0 +1,19 @@
+{
+  "appKey": "cYTFqM6CSrYt7K1JwaH7aokQ6P0xMB2a",
+  "appSecret": "pygAjcYvSDpfmMkX6THyjLhKla5yZJ71",
+  "projectId": "e22069b450ecfb44496d88a10f130d0d",
+  "id": 246,
+  "name": "crm",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/Alex9a/a1.git",
+    "isPrivate": 0,
+    "username": "Alex9a",
+    "password": "Aa6735629"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
